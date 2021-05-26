@@ -1,8 +1,9 @@
 package com.example.ch1;
 
 /*
-*     Ch 1 - Practice 2: Phrase-O-Matic
- * */
+     Ch 1 - Practice 2: Phrase-O-Matic
+*/
+
 public class PhraseOMatic {
     public static void main(String[] args) {
         // 1) make 3 sets of words to choose from. Add your own
