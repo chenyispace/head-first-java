@@ -8,7 +8,6 @@ package com.example.ch1;
 
     98 bottles of beer on the wall, 98 bottles of beer.
     Take one down and pass it around.
-
     ...
     1 bottle of beer on the wall, 1 bottle of beer.
     Take one down and pass it around, no more bottles of beer on the wall.
