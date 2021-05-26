@@ -1,8 +1,7 @@
-package com.example.tutorial1;
+package com.example.ch1;
 
 /*
-    Practice 1:
-    Code classic children's favorite "99 bottles of beer"
+  Ch 1 - Practice 1: Code classic children's favorite "99 bottles of beer"
 
     99 bottles of beer on the wall, 99 bottles of beer.
     Take one down and pass it around.
@@ -13,7 +12,8 @@ package com.example.tutorial1;
     ...
     1 bottle of beer on the wall, 1 bottle of beer.
     Take one down and pass it around, no more bottles of beer on the wall.
- */
+*/
+
 public class BeerSong {
     public static void main(String[] args) {
         int beerNum = 99;
