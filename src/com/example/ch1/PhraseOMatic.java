@@ -2,7 +2,6 @@ package com.example.ch1;
 
 /*
 *     Ch 1 - Practice 2: Phrase-O-Matic
-
  * */
 public class PhraseOMatic {
     public static void main(String[] args) {
