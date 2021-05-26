@@ -1,4 +1,4 @@
-package com.example.tutorial;
+package com.example.tutorial1;
 
 /*
     Practice 1:
