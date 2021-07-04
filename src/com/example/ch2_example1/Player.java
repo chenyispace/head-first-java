@@ -1,4 +1,4 @@
-package com.example.ch2_exercise1;
+package com.example.ch2_example1;
 
 public class Player {
     int number = 0; //where the guess goes

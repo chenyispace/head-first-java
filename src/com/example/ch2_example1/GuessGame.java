@@ -1,4 +1,4 @@
-package com.example.ch2_exercise1;
+package com.example.ch2_example1;
 
 public class GuessGame {
     // GuessGame has 3 instance variables for the 3 Player object
