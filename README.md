@@ -39,5 +39,5 @@ A class describes what an object knows and what an object
 ### Method
 - A method uses paramters. A caller passes arguments
 - You can send > 1 thing to a method by:
-  1. Calling a 2 parameter method and sending it 2 arguments <strong>OR
+  1. Calling a 2 parameter method and sending it 2 arguments OR
   2. Pass varilables into a method, as long as the varirable types matches the paratmeter type
