@@ -49,6 +49,7 @@ Abandoned objects : 1
 ### Encapsulation
   1. Make the instance variable private
   2. Make setter, getter methods public
+
 ![image](https://user-images.githubusercontent.com/80622894/124487470-577b2380-dde1-11eb-975e-ecdd6feef83b.png)
 
 ### Hide the data (Access modifiers)
