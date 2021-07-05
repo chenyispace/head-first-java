@@ -33,6 +33,7 @@ Abandoned objects : 1
 
 ### Class
 - A class describes what an object knows (instane variable) and what an object does (methods)
+
 ![image](https://user-images.githubusercontent.com/80622894/124459239-89c85900-ddc0-11eb-8119-adcbd1369585.png)
 
 
@@ -46,6 +47,9 @@ Abandoned objects : 1
 - A method without without return type ->  void return
 
 ### Encapsulation
+  1. Make the instance variable private
+  2. Make setter, getter methods public
+![image](https://user-images.githubusercontent.com/80622894/124487470-577b2380-dde1-11eb-975e-ecdd6feef83b.png)
 
 ### Hide the data (Access modifiers)
 1. public
