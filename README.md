@@ -52,6 +52,11 @@ Abandoned objects : 1
 
 ![image](https://user-images.githubusercontent.com/80622894/124487470-577b2380-dde1-11eb-975e-ecdd6feef83b.png)
 
+NOTE:
+Instance always get a default value. If there is no value explicitly assign to an instance variable, or a setter method is not called, the isntance still has a value
+
+![image](https://user-images.githubusercontent.com/80622894/124488185-251df600-dde2-11eb-9f84-f158998f54e5.png)
+
 ### Hide the data (Access modifiers)
 1. public
 2. private
