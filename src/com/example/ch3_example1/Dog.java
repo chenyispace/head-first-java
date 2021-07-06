@@ -1,12 +1,7 @@
-package com.example.chap3_example1;
+package com.example.ch3_example1;
 
-public class Dog {
+class Dog {
     String name;
-    public void bark() {
-        System.out.println(name + " say Ruff!");
-    }
-    public void eat() {}
-    public void chaseCat() {}
 
     public static void main(String[] args) {
         Dog dog1 = new Dog();
@@ -36,6 +31,11 @@ public class Dog {
             mydogs[x].bark();
             x = x + 1;
         }
-
     }
+
+    public void bark() {
+        System.out.println(name + " say Ruff!");
+    }
+    public void eat() {}
+    public void chaseCat() {}
 }
